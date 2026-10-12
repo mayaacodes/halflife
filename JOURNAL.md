@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6h | 3 |
+| Week 1 | Tier 1 | 7h | 3 |
 
 ## Contents
 
@@ -44,7 +44,7 @@ This session, I assigned footprints to my PCB components in KiCad, including the
 
 ### 2026-10-11 – ![Screenshot 2026-10-11 233156](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QWQ0dzg9KtscDdtNGefWyaNfmzgR9wJZ/4d5b684a919ee15e443c7a73911c4a48dab5af39cd421a611e9010c623c65729.png)
 
-**2h**
+**3h**
 
 ![Screenshot 2026-10-11 233156](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/QWQ0dzg9KtscDdtNGefWyaNfmzgR9wJZ/4d5b684a919ee15e443c7a73911c4a48dab5af39cd421a611e9010c623c65729.png)
 
